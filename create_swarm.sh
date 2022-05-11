@@ -1,0 +1,1 @@
+sudo docker swarm init --advertise-addr 81.169.224.39
